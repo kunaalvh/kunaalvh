@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋,I'm Kunal Vishwakarma</h1>
 <h3 align="center">I'm a Java developer and enthusiatic about Artificial Intelligence and Cloud computing. Looking forward to explore more in technology to expand my skill set.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaalvh&label=Profile%20views&color=0e75b6&style=flat" alt="kunaalvh" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kunaalvh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunaalvh" height="30" width="40" /></a>
